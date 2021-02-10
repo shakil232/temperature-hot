@@ -1,0 +1,13 @@
+
+
+body {
+    background: url(images/bg-image.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#error-display{
+    font-size: 30px;
+    font-weight: 600;
+    color:red;
+    text-align: center;
+}
